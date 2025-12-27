@@ -48,12 +48,10 @@ Let's code together! 💻🚀
 
 ## Authors
 
-- [@Arnabjk008](https://www.github.com/xensen008)
-- [bio links](https://xensen008.bio.link)
+- Parashuram GP
 
 
 ## Acknowledgements
 
-A massive shoutout and heartfelt thanks to @Shardha Khapra) for her incredible teachings on CSS! 🙌💻 Your guidance has been instrumental in reaching this milestone.
-
+Thanks to shradha kapra.
 
