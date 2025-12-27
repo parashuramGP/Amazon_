@@ -23,7 +23,7 @@ ScreenShot 👇
 
 ![image](./Demo%20pic.jpg)
 
-here the website is hosted : https://amazon-clone008.netlify.app/
+here the website is hosted : https://dashing-bonbon-d11e3b.netlify.app/
 
 ## Usage
 
